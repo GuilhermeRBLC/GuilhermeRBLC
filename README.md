@@ -4,13 +4,13 @@
 <details open>
   <summary> English Profile </summary>
 
-Hello, I'm Guilherme, I'm fascinated by exploring the different applications of programming, my best skills are focused on web backend development with Java, PHP or Python, I also have knowledge in HTML, CSS3 and Javascript and their frameworks, such as Angular , I also study mobile development with Android.
+Hello, I'm Guilherme, I have been studying programming for over 10 years, initially on personal projects, on technical courses and at college.
 
-You can check out some of my work here on my GitHub.
+My main focus is agile development with scrum practices applied to the back-end coding in Java (SprinBoot), applying best practices such as Clean Code and SOLID principles, in addition to unit and integration tests, as well as versioning the code using Git.
 
-If you want to send me any questions or suggestions, don't hesitate to contact me.
+I have experience using MySQL, SQL SERVER and MongoDB databases.
 
-Thank you for visiting my profile!
+I also have knowledge in front-end (HTML, CSS, Javascript and Angular).
 
 - How to reach me **guilhermerblc@gmail.com**
 
@@ -23,13 +23,13 @@ Thank you for visiting my profile!
 <details>
   <summary> Portfolio em Português </summary>
 
-Olá, sou o Guilherme, sou fascinado por explorar as diversas aplicações da programação, minhas melhores habilidades estão voltadas para o desenvolvimento de backend web com Java, PHP ou Python, também tenho conhecimentos em HTML, CSS3 e Javascript e seus frameworks, como o Angular, também estudo desenvolvimento mobile com Android.
+Olá, eu sou o Guilherme. Estudo programação a mais de 10 anos, inicialmente em projetos pessoais, do curso técnico e da faculdade.
 
-Você pode conferir alguns dos meus trabalhos aqui no meu GitHub.
+Meu foco principal é o desenvolvimento ágil com praticas scrum aplicado ao back-end codificando em Java (SprinBoot), aplicando as melhores práticas como Clean Code e principios SOLID, além de testes unitarios e de integração, como também versionar o código utilizando Git.
 
-Se você quiser me enviar alguma dúvida ou sugestão, não hesite em entrar em contato comigo.
+Tenho experiência no uso dos banco de dados MySQL, SQL SERVER e MongoDB.
 
-Obrigado por visitar o meu perfil!
+Também tenho conhecimentos em front-end (HTML, CSS, Javascript e Angular).
 
 - Como me contatar **guilhermerblc@gmail.com**
 
