@@ -4,9 +4,9 @@
 <details open>
   <summary> English Profile </summary>
 
-Hello, I'm Guilherme, I have been studying programming for over 10 years, initially on personal projects, on technical courses and at college.
+Hello, I'm Guilherme.
 
-My main focus is agile development with scrum practices applied to the back-end coding in Java (SprinBoot), applying best practices such as Clean Code and SOLID principles, in addition to unit and integration tests, as well as versioning the code using Git.
+My main focus is agile development to the back-end coding in Java (SprinBoot), applying best practices such as Clean Code and SOLID principles, in addition to unit and integration tests, as well as versioning the code using Git.
 
 I have experience using MySQL, SQL SERVER and MongoDB databases.
 
@@ -23,9 +23,9 @@ I also have knowledge in front-end (HTML, CSS, Javascript and Angular).
 <details>
   <summary> Portfolio em Português </summary>
 
-Olá, eu sou o Guilherme. Estudo programação a mais de 10 anos, inicialmente em projetos pessoais, do curso técnico e da faculdade.
+Olá, eu sou o Guilherme.
 
-Meu foco principal é o desenvolvimento ágil com praticas scrum aplicado ao back-end codificando em Java (SprinBoot), aplicando as melhores práticas como Clean Code e principios SOLID, além de testes unitarios e de integração, como também versionar o código utilizando Git.
+Meu foco principal é o desenvolvimento voltado ao back-end codificando em Java (SprinBoot), aplicando as melhores práticas como Clean Code e principios SOLID, além de testes unitarios e de integração, como também versionar o código utilizando Git.
 
 Tenho experiência no uso dos banco de dados MySQL, SQL SERVER e MongoDB.
 
@@ -59,26 +59,6 @@ Também tenho conhecimentos em front-end (HTML, CSS, Javascript e Angular).
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
-
-  <h4>PHP</h4>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-  </a>
-  
-  
-  <h4>Python</h4>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="vuejs" width="40" height="40"/>
-  </a>
   
   <h4>FRONT END</h4>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -109,9 +89,6 @@ Também tenho conhecimentos em front-end (HTML, CSS, Javascript e Angular).
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
   
 </p>
